@@ -5,8 +5,4 @@ module.exports = {
         client: "pg",
         connection: "postres://postgres:gueroyeah@localhost/patient",
     },
-    test: {
-        client: "pg",
-        connection: "postres://postgres:gueroyeah@localhost/test-patient",
-    },
 };

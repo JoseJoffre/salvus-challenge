@@ -13,6 +13,7 @@ function validPatient(patient) {
     const hasName = typeof patient.name == "string" && patient.name.trim() != "";
     return hasName;
 }
+
 router.get("/", (req, res) => {
     queries.getAll().then((patients) => {
         res.json(patients);
