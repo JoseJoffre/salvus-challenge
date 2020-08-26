@@ -1,8 +1,8 @@
 # salvus-challenge
 
-## Teste Técnio para a Vaga de estágio em desenvolvimento
-O teste requisitou a implementação de uma aplicação capaz de criar, atualizar, excluir e ler (CRUD) dados de uma determinada edentidade.
-Frisando a importância de rotas seguindo o princípio de uma arquitetura REST. Conforme o exemplo:
+## Teste Técnico para a Vaga de estágio em desenvolvimento
+O teste requisitou a implementação de uma aplicação capaz de criar, atualizar, excluir e ler (CRUD) dados de uma determinada entidade.
+Frisando a importância de um serviço de rotas seguindo o princípio de uma arquitetura REST. Conforme o exemplo:
 
 GET /api/patients
 
@@ -14,7 +14,7 @@ PUT /api/patients/:id
 
 DELETE /api/patients/:id
 
-Por recomendações utilizei o framework Express.js, o query builderKnex  e o banco de dados Postgres.
+Por recomendações utilizei o framework Express.js, o query builder Knex  e o banco de dados escolhido foi o Postgres.
 
 Passo-a-passo 
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -36,7 +36,7 @@ A consulta geral com todos os dados de todos pacientes pode ser efetuada atráve
 Dados de um paciente específico são obtidos através do id dele, por exemplo http://localhost:3000/api/patients/2
 
 
-Para testar as outras funções de Create (POST), Update(PUT), Delete(DELETE), a ferramente utilizada foi o POSTMAN:
+Para testar as outras funções de Create (POST), Update(PUT), Delete(DELETE), a ferramenta utilizada foi o POSTMAN:
 
 ##CREATE
 
