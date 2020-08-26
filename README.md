@@ -40,21 +40,21 @@ Para testar as outras funções de Create (POST), Update(PUT), Delete(DELETE), a
 
 ##CREATE
 
-<img src="./print/create-patient.png">
+<img src="./prints/create-patient.png">
 
 ##UPDATE
 
-<img src="./print/update-patient.png">
+<img src="./prints/update-patient.png">
 
 ##DELETE
 
-<img src="./print/delete-patient.png">
+<img src="./prints/delete-patient.png">
 
 ##SHOW(ALL)
 
-<img src="./print/show-all-patient.png">
+<img src="./prints/show-all-patient.png">
 
 ##SHOW(ID)
 
-<img src="./print/show-patient.png">
+<img src="./prints/show-patient.png">
 
