@@ -26,7 +26,7 @@ npm install
 Para iniciar o projeto use o comando:
 
 ```
-$ npm start
+npm start
 ```
 
 
@@ -38,23 +38,23 @@ Dados de um paciente específico são obtidos através do id dele, por exemplo h
 
 Para testar as outras funções de Create (POST), Update(PUT), Delete(DELETE), a ferramenta utilizada foi o POSTMAN:
 
-##CREATE
+## CREATE
 
 <img src="./prints/create-patient.png">
 
-##UPDATE
+## UPDATE
 
 <img src="./prints/update-patient.png">
 
-##DELETE
+## DELETE
 
 <img src="./prints/delete-patient.png">
 
-##SHOW(ALL)
+## SHOW(ALL)
 
 <img src="./prints/show-all-patient.png">
 
-##SHOW(ID)
+## SHOW(ID)
 
 <img src="./prints/show-patient.png">
 
